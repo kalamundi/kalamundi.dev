@@ -6,7 +6,16 @@
     <description>Recent content on Kalamundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
-    <lastBuildDate>Tue, 04 Jan 2022 12:23:07 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 12:55:22 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second post</title>
+      <link>http://example.org/posts/second-post/</link>
+      <pubDate>Thu, 06 Jan 2022 12:55:22 -0500</pubDate>
+      
+      <guid>http://example.org/posts/second-post/</guid>
+      <description>Something second post    </description>
+    </item>
+    
     <item>
       <title>Placeholder Post</title>
       <link>http://example.org/posts/placeholder-post/</link>

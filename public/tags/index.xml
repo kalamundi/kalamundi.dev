@@ -5,6 +5,16 @@
     <link>http://example.org/tags/</link>
     <description>Recent content in Tags on Kalamundi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-ca</language>
+    <lastBuildDate>Thu, 06 Jan 2022 12:55:22 -0500</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>second</title>
+      <link>http://example.org/tags/second/</link>
+      <pubDate>Thu, 06 Jan 2022 12:55:22 -0500</pubDate>
+      
+      <guid>http://example.org/tags/second/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
