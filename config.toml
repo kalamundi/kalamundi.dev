@@ -1,0 +1,43 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-ca'
+title = 'Kalamundi'
+theme = 'hugo-coder'
+paginate = 20
+enableEmoji = true
+
+[params]
+author = "Muka"
+description = "A dump for organized data"
+keywords = "blog,developer,personal"
+info = ["Developer", "Human in progress", "Dreamer"]
+since = 2022
+colorScheme = "dark"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/kalamundi/"
+
+[languages.en]
+languageName = ":uk:"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 3
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 5
+url = "contact/"
